@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="466bc3e8-7159-4c36-9df0-e585e8df4b0c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2A1NhGNqX0Hd7qbObYZafksvJ7U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yasemin\IdeaProjects\com.deneme\src\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.C04_JS_Executor.JSExecutorTest">
+    <configuration name="C02_Actions.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.batch59JUnıt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10_actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day10_actions" />
+      <option name="MAIN_CLASS_NAME" value="day10_actions.C02_Actions" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_TumSayfaScreenShot.tumSayfa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.batch59JUnıt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day15_writeExcel_screenShot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day15_writeExcel_screenShot" />
+      <option name="MAIN_CLASS_NAME" value="day15_writeExcel_screenShot.C02_TumSayfaScreenShot" />
+      <option name="METHOD_NAME" value="tumSayfa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_FileExist.test0101" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.batch59JUnıt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11_faker_file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day11_faker_file" />
+      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C03_FileExist" />
+      <option name="METHOD_NAME" value="test0101" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_Actions.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.batch59JUnıt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10_actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day10_actions" />
+      <option name="MAIN_CLASS_NAME" value="day10_actions.C04_Actions" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_JS_Executor.JSExecutorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.batch59JUnıt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day15_writeExcel_screenShot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day15_writeExcel_screenShot" />
+      <option name="MAIN_CLASS_NAME" value="day15_writeExcel_screenShot.C04_JS_Executor" />
+      <option name="METHOD_NAME" value="JSExecutorTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.C04_JS_Executor.JSExecutorTest" />
+        <item itemvalue="JUnit.C02_TumSayfaScreenShot.tumSayfa" />
+        <item itemvalue="JUnit.C03_FileExist.test0101" />
+        <item itemvalue="JUnit.C04_Actions.test01" />
+        <item itemvalue="JUnit.C02_Actions.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="466bc3e8-7159-4c36-9df0-e585e8df4b0c" name="Changes" comment="" />
+      <created>1654173249679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654173249679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/day05_JUnıt/C02_MavenTest.java</url>
+          <line>11</line>
+          <properties class="day05_JUnıt.C02_MavenTest" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/day05_JUnıt/C01_MavenIlkClass.java</url>
+          <line>9</line>
+          <properties class="day05_JUnıt.C01_MavenIlkClass" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/day11_faker_file/C05_FileUpload.java</url>
+          <line>11</line>
+          <properties class="day11_faker_file.C05_FileUpload" method="test01">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/day12_senkronizasyon/C02_ExplicitlyWait.java</url>
+          <line>17</line>
+          <properties class="day12_senkronizasyon.C02_ExplicitlyWait" method="enableTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/day13_cookies_webTables/C02_WebTables.java</url>
+          <line>17</line>
+          <properties class="day13_cookies_webTables.C02_WebTables" method="webTable">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
